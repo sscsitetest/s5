@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitTest\\SSCGitTest3\\SSCGitT3\\SSCGitT3.csproj",
+      "projectUniqueName": "E:\\GitTest\\S5\\SSCGitT3\\SSCGitT3.csproj",
       "projectName": "SSCGitT3",
-      "projectPath": "E:\\GitTest\\SSCGitTest3\\SSCGitT3\\SSCGitT3.csproj",
+      "projectPath": "E:\\GitTest\\S5\\SSCGitT3\\SSCGitT3.csproj",
       "packagesPath": "C:\\Users\\iTact User\\.nuget\\packages\\",
-      "outputPath": "E:\\GitTest\\SSCGitTest3\\SSCGitT3\\obj\\",
+      "outputPath": "E:\\GitTest\\S5\\SSCGitT3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
